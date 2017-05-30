@@ -1,0 +1,7 @@
+Python program that pulls stock data for a particular user input date range and Ticker.
+Ticker data is written to a folder called 'Downloaded Data' in the same folder from which the code is run.
+
+Instructions:
+1.	All files are in the same folder
+2.	Run the PriceFetcher_Utilities.py first.
+
